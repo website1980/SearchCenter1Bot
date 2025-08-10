@@ -76,16 +76,16 @@ TUTORIAL_3 = environ.get("TUTORIAL_3", "")
 VERIFY_IMG = environ.get(
     "VERIFY_IMG", ""
 )
-SHORTENER_API = environ.get("SHORTENER_API", "")
-SHORTENER_WEBSITE = environ.get("SHORTENER_WEBSITE", "")
+SHORTENER_API = environ.get("SHORTENER_API", "fc2e0e9d467575e658817e4e27118ec57c048e46")
+SHORTENER_WEBSITE = environ.get("SHORTENER_WEBSITE", "teraboxlinks.com")
 SHORTENER_API2 = environ.get(
-    "SHORTENER_API2", ""
+    "SHORTENER_API2", "fc2e0e9d467575e658817e4e27118ec57c048e46"
 )
-SHORTENER_WEBSITE2 = environ.get("SHORTENER_WEBSITE2", "")
+SHORTENER_WEBSITE2 = environ.get("SHORTENER_WEBSITE2", "teraboxlinks.com")
 SHORTENER_API3 = environ.get(
-    "SHORTENER_API3", ""
+    "SHORTENER_API3", "fc2e0e9d467575e658817e4e27118ec57c048e46"
 )
-SHORTENER_WEBSITE3 = environ.get("SHORTENER_WEBSITE3", "")
+SHORTENER_WEBSITE3 = environ.get("SHORTENER_WEBSITE3", "teraboxlinks.com")
 TWO_VERIFY_GAP = int(environ.get("TWO_VERIFY_GAP", "14400"))
 THREE_VERIFY_GAP = int(environ.get("THREE_VERIFY_GAP", "14400"))
 
